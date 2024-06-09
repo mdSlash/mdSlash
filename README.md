@@ -1,19 +1,17 @@
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+
 ## Hi there 👋
 
-<!--
-**mdSlash/mdSlash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdSlash&hide=stars)](https://github.com/mdSlash)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=mdSlash&theme=dark&custom_title=Haitham's%20GitHub%20Stats&hide=stars"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=mdSlash&custom_title=Haitham's%20GitHub%20Stats&hide=stars"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdSlash&hide=stars" />
+</picture>
