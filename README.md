@@ -2,8 +2,6 @@
 
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdSlash&hide=stars)](https://github.com/mdSlash)
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=mdSlash&theme=dark&custom_title=Haitham's%20GitHub%20Stats&hide=stars"
